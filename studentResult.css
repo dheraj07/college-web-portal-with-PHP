@@ -1,0 +1,60 @@
+body{
+	background-image: url(back.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.container{
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 1200px;
+
+}
+.btn{
+	border: 1px solid #3498db;
+	text-decoration-color: red;
+	background: none;
+	padding: 10px 20px;
+	font-size: 25px;
+	font-family: "montserrat"
+	curser: pointer;
+	margin: 10px;
+	position: relative;
+	overflow: hidden;
+	background-color:blanchedalmond; 
+}
+.headerpart{
+    width: 1333px;
+    height: 300px;
+    border-style: groove;
+    background-color: rgb(12,100,198);
+    background-image: url('ambition.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.linkspart{
+    width: 1333px;
+    height: 36spx;
+    border-style: groove;
+    margin-top: 330px;
+     background-color: rgb(12,100,198);
+}
+.linkspart a{
+    color:rgb(245,246,251);
+    text-decoration: none;
+    color: #fff;
+    padding 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5s ease;
+
+}
+.linkspart a:hover{
+    background-color:rgb(245,246,251);
+    color:rgb(12,100,198);
+
+
+
+
+		
+	

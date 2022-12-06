@@ -1,0 +1,28 @@
+.bodypart .newspart  h1{
+    color: green;
+    margin-left: 250px
+}
+
+.bodypart .newspart .news{
+    width: 713px;
+    height: 500px;
+
+    border-style: groove;
+}
+
+.bodypart .newspart{
+	background-color: #cee6c0 ;
+    width: 720px;
+    height: 580px;
+    border-style: groove;
+    float: center;
+
+}
+
+body{
+	background-color: #020202;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: url(hello.jpg);
+}
